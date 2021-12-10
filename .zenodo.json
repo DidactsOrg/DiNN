@@ -1,6 +1,6 @@
 {
     "language": "eng", 
-    "license": "GPL-3.0", 
+    "license": "GPL-3.0-or-later", 
     "title": "Domain-informed Neural Networks", 
     "keywords": [
         "dark matter", 
@@ -22,5 +22,10 @@
         }, 
     ], 
     "access_right": "open", 
-    "description": "The code to reproduce our recent paper on Domain-informed Neural Networks (DiNN).  This shows how to generate fake dark matter detector interactions, and then use that simulated data to train a DiNN using constraints from the signal characteristics and detector geometry", 
+    "description": "The code to reproduce our recent paper on Domain-informed Neural Networks (DiNN).  This shows how to generate fake dark matter detector interactions, and then use that simulated data to train a DiNN using constraints from the signal characteristics and detector geometry",
+    "communities": [
+      {
+        "id": "didacts"
+      }
+    ], 
 }
