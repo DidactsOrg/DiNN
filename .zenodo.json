@@ -1,0 +1,26 @@
+{
+    "language": "eng", 
+    "license": "GPL-3.0", 
+    "title": "Domain-informed Neural Networks", 
+    "keywords": [
+        "dark matter", 
+        "reconstruction", 
+        "DiNN", 
+        "neural network"
+    ], 
+    "creators": [
+        {
+            "affiliation": "Rice University", 
+            "name": "Liang, S.",
+            "orcid": "0000-0003-0116-654X"
+          
+        }, 
+        {
+            "orcid": "0000-0001-8158-7795", 
+            "affiliation": "Rice University", 
+            "name": "Tunnell, C."
+        }, 
+    ], 
+    "access_right": "open", 
+    "description": "The code to reproduce our recent paper on Domain-informed Neural Networks (DiNN).  This shows how to generate fake dark matter detector interactions, and then use that simulated data to train a DiNN using constraints from the signal characteristics and detector geometry", 
+}
